@@ -86,3 +86,7 @@ body.wrong {
 .hide {
   display: none;
 }
+
+.status {
+  margin-bottom: 15px;
+}

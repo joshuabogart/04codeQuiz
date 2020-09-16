@@ -78,48 +78,48 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: "example 1",
+    question: "What does HTML stand for?",
     answer: [
-      { text: "Answer 1", correct: true },
-      { text: "Answer 2", correct: false },
-      { text: "Answer 3", correct: false },
-      { text: "Answer 4", correct: false },
+      { text: "Hypertext Markup Language", correct: true },
+      { text: "How to meet ladies", correct: false },
+      { text: "High tea markup language", correct: false },
+      { text: "High times magazine letter", correct: false },
     ],
   },
   {
-    question: "example 2",
+    question: "What is the coolest language in web development?",
     answer: [
-      { text: "Answer 1", correct: false },
-      { text: "Answer 2", correct: true },
-      { text: "Answer 3", correct: false },
-      { text: "Answer 4", correct: false },
+      { text: "English", correct: false },
+      { text: "Javascript", correct: true },
+      { text: "Spanish", correct: false },
+      { text: "Russian", correct: false },
     ],
   },
   {
-    question: "example 3",
+    question: "Who developed javascript?",
     answer: [
-      { text: "Answer 1", correct: false },
-      { text: "Answer 2", correct: false },
-      { text: "Answer 3", correct: true },
-      { text: "Answer 4", correct: false },
+      { text: "Albert Einstein", correct: false },
+      { text: "Alexander Graham Bell", correct: false },
+      { text: "Brendan Eich", correct: true },
+      { text: "Joe Rogan", correct: false },
     ],
   },
   {
-    question: "example 4",
+    question: "What does CSS stand for?",
     answer: [
-      { text: "Answer 1", correct: false },
-      { text: "Answer 2", correct: false },
-      { text: "Answer 3", correct: false },
-      { text: "Answer 4", correct: true },
+      { text: "Can't Shoot Straight", correct: false },
+      { text: "Chicken Salad Sandwich", correct: false },
+      { text: "Character Selection Screen", correct: false },
+      { text: "Cascading Style Sheets", correct: true },
     ],
   },
   {
-    question: "example 5",
+    question: "Who hosts the best coding bootcamp?",
     answer: [
-      { text: "Answer 1", correct: true },
-      { text: "Answer 2", correct: false },
-      { text: "Answer 3", correct: false },
-      { text: "Answer 4", correct: false },
+      { text: "UT Austin", correct: true },
+      { text: "Flatiron School", correct: false },
+      { text: "Hack Reactor", correct: false },
+      { text: "Codesmith", correct: false },
     ],
   },
 ];
